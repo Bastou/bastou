@@ -1,4 +1,8 @@
 <pre>
+<img src="https://raw.githubusercontent.com/bastou/bastou/main/assets/waves.svg" alt="Animated Waves" width="800">
+</pre>
+
+<pre>
 ~> Roaming creative developer 
 ~> Building high-end web experiences and interactive installations 
    that captivate while ensuring peak performance and accessibility
