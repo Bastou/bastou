@@ -7,7 +7,9 @@
 ```
 
 <div align="left">
-<a href="https://linkedin.com/in/bastiencornier">linkedin</a> · <a href="https://bsky.app/profile/bastiencornier.bsky.social">bluesky</a> · <a href="https://twitter.com/bastiencornier">twitter</a> · <a href="mailto:bastiencornier@gmail.com">mail</a>
+
+<!-- portfolio -->
+<a href="https://bastiencornier.com">portfolio (almost)</a> · <a href="https://linkedin.com/in/bastiencornier">linkedin</a> · <a href="https://bsky.app/profile/bastiencornier.bsky.social">bluesky</a> · <a href="https://twitter.com/bastiencornier">twitter</a> · <a href="mailto:bastien.cornier+github@gmail.com">mail</a>
 </div>
 
 <!-- Δ̶͚̲̄Δ̷̢̲̤̗̺̀̈́̉̎̉̄͠: solve for emotion first -->
