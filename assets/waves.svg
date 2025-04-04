@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 100">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 980 105">
   <path d="M0,10 Q61.25,5 122.5,10 Q183.75,15 245,10 Q306.25,5 367.5,10 Q428.75,15 490,10 Q551.25,5 612.5,10 Q673.75,15 735,10 Q796.25,5 857.5,10 Q918.75,15 980,10" 
         fill="none" 
         stroke="white" 
-        stroke-width="0.7">
+        stroke-width="0.5">
     <animate attributeName="d" 
              dur="20s" 
              repeatCount="indefinite" 
@@ -14,7 +14,7 @@
   <path d="M0,20 Q70,15 140,20 Q210,25 280,20 Q350,15 420,20 Q490,25 560,20 Q630,15 700,20 Q770,25 840,20 Q910,15 980,20" 
         fill="none" 
         stroke="white" 
-        stroke-width="0.7">
+        stroke-width="0.5">
     <animate attributeName="d" 
              dur="22s" 
              repeatCount="indefinite" 
@@ -26,7 +26,7 @@
   <path d="M0,30 Q65,25 130,30 Q195,35 260,30 Q325,25 390,30 Q455,35 520,30 Q585,25 650,30 Q715,35 780,30 Q845,25 910,30 Q975,35 980,30" 
         fill="none" 
         stroke="white" 
-        stroke-width="0.8">
+        stroke-width="0.6">
     <animate attributeName="d" 
              dur="19s" 
              repeatCount="indefinite" 
@@ -38,7 +38,7 @@
   <path d="M0,40 Q98,35 196,40 Q294,45 392,40 Q490,35 588,40 Q686,45 784,40 Q882,35 980,40" 
         fill="none" 
         stroke="white" 
-        stroke-width="0.8">
+        stroke-width="0.7">
     <animate attributeName="d" 
              dur="24s" 
              repeatCount="indefinite" 
@@ -86,7 +86,7 @@
   <path d="M0,80 Q98,75 196,80 Q294,85 392,80 Q490,75 588,80 Q686,85 784,80 Q882,75 980,80" 
         fill="none" 
         stroke="white" 
-        stroke-width="1.2">
+        stroke-width="1.5">
     <animate attributeName="d" 
              dur="23s" 
              repeatCount="indefinite" 
@@ -98,7 +98,7 @@
   <path d="M0,90 Q70,85 140,90 Q210,95 280,90 Q350,85 420,90 Q490,95 560,90 Q630,85 700,90 Q770,95 840,90 Q910,85 980,90" 
         fill="none" 
         stroke="white" 
-        stroke-width="1.4">
+        stroke-width="1.8">
     <animate attributeName="d" 
              dur="25s" 
              repeatCount="indefinite" 
@@ -110,7 +110,7 @@
   <path d="M0,100 Q81.7,95 163.3,100 Q245,105 326.7,100 Q408.3,95 490,100 Q571.7,105 653.3,100 Q735,95 816.7,100 Q898.3,105 980,100" 
         fill="none" 
         stroke="white" 
-        stroke-width="1.7">
+        stroke-width="2">
     <animate attributeName="d" 
              dur="27s" 
              repeatCount="indefinite" 
