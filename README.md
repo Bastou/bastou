@@ -1,5 +1,5 @@
 <pre>
-<img src="https://raw.githubusercontent.com/Bastou/bastou/refs/heads/main/assets/waves.svg?token=GHSAT0AAAAAAC2QT64ETA2ESM4JHSBFYMFMZ7QAK5Q" alt="Animated Waves" >
+<img src="https://raw.github.com/Bastou/bastou/main/assets/waves.svg?sanitize=true" alt="Animated Waves" >
 </pre>
 <pre>
 ~> Roaming creative developer 
